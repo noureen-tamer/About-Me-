@@ -95,6 +95,6 @@
 
 ###
 
-<p align="left">Volunteer student at Egypt Japan university of science and technology</p>
+<p align="left">Volunteer student at Egypt Japan university of science and technology:organizing university events and conferences</p>
 
 ###
