@@ -90,3 +90,11 @@
 <p align="left">Restaurant Website: Developed a responsive website for a restaurant, featuring menu browsing, online reservations, and customer reviews.<br><br>Basic Hospital Management System: Created a system to manage patient records, appointments, and medical staff schedules using Python and SQL.<br><br>Python Encrypting Program: Built a program to encrypt and decrypt text files using cryptographic algorithms for secure data transmission.<br><br>Online Airline Reservation System: Designed a web-based platform for booking flights, managing tickets, and checking flight statuses.<br><br>Sound Sensor Arduino Project (Embedded): Implemented a sound-activated system using Arduino and sensors to trigger actions based on noise levels.<br><br>Windows Service by Python: Developed a background Windows service using Python to automate system tasks and monitor processes.<br><br>Chatting Application with C#: Created a real-time messaging application with a user-friendly interface for seamless communication</p>
 
 ###
+
+<h3 align="left">💼 Volunteering</h3>
+
+###
+
+<p align="left">Volunteer student at Egypt Japan university of science and technology</p>
+
+###
